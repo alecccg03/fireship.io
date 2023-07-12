@@ -15,7 +15,7 @@ free: true
   <h6>Which term does NOT describe JavaScript?</h6>
 </quiz-modal>
 
-Let's a quick look at 100 essential concepts that every developer should know. At this point, you don't need to understand everything. Just get a feel for the topics and we'll dive deeper throughout the course. Come back to this lesson at end and it should make a lot more sense.
+Let's take a quick look at 100 essential concepts that every developer should know. At this point, you don't need to understand everything. Just get a feel for the topics and we'll dive deeper throughout the course. Come back to this lesson at end and it should make a lot more sense.
 
 If you want to learn more about a topic, check out the [MDN's JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) content - it is the unofficial JS documentation.
 
